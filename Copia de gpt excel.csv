@@ -1,51 +1,51 @@
-ID del Proyecto,Nombre del Proyecto,Tipo de Proyecto,UbicaciÛn,Empresa Contratista,Costo Estimado (USD),Fecha de Inicio,Fecha de FinalizaciÛn Estimada,Estado del Proyecto,Ingeniero Responsable
-1,Puente San Juan,Puente,San Juan,Constructora ABC,5000000,2023-01-15,2024-05-20,En Progreso,Ing. Juan PÈrez
-2,Edificio Central,Edificio Comercial,Santiago,Construc Chile,12000000,2022-08-01,2023-12-31,En Progreso,Ing. MarÌa Gonz·lez
-3,Carretera Norte,Carretera,ValparaÌso,RoadBuild Ltda.,30000000,2023-03-01,2025-10-15,Planificado,Ing. Carlos LÛpez
-4,Represa Agua Clara,Represa,ConcepciÛn,AguaPura SA,45000000,2023-07-01,2026-09-30,Planificado,Ing. Ana MarÌa RodrÌguez
-5,Hospital del Sur,Hospital,Temuco,HealthBuild Inc.,25000000,2022-05-01,2024-11-30,En Progreso,Ing. Roberto MartÌnez
+ID del Proyecto,Nombre del Proyecto,Tipo de Proyecto,Ubicaci√≥n,Empresa Contratista,Costo Estimado (USD),Fecha de Inicio,Fecha de Finalizaci√≥n Estimada,Estado del Proyecto,Ingeniero Responsable
+1,Puente San Juan,Puente,San Juan,Constructora ABC,5000000,2023-01-15,2024-05-20,En Progreso,Ing. Juan P√©rez
+2,Edificio Central,Edificio Comercial,Santiago,Construc Chile,12000000,2022-08-01,2023-12-31,En Progreso,Ing. Mar√≠a Gonz√°lez
+3,Carretera Norte,Carretera,Valpara√≠so,RoadBuild Ltda.,30000000,2023-03-01,2025-10-15,Planificado,Ing. Carlos L√≥pez
+4,Represa Agua Clara,Represa,Concepci√≥n,AguaPura SA,45000000,2023-07-01,2026-09-30,Planificado,Ing. Ana Mar√≠a Rodr√≠guez
+5,Hospital del Sur,Hospital,Temuco,HealthBuild Inc.,25000000,2022-05-01,2024-11-30,En Progreso,Ing. Roberto Mart√≠nez
 6,Puente Viejo,Puente,San Juan,Constructora ABC,7500000,2023-03-20,2024-11-20,Planificado,Ing. Julia Mena
 7,Edificio Corporativo,Edificio Corporativo,Santiago,Construc Chile,15000000,2022-11-15,2024-03-20,En Progreso,Ing. Pedro Santos
-8,Autopista Sur,Carretera,ValparaÌso,RoadBuild Ltda.,35000000,2023-05-10,2025-12-15,Planificado,Ing. Juan PÈrez
-9,Represa Monte Grande,Represa,ConcepciÛn,AguaPura SA,50000000,2023-08-01,2027-02-28,Planificado,Ing. MarÌa Gonz·lez
-10,Centro MÈdico Norte,Hospital,Temuco,HealthBuild Inc.,27000000,2022-06-01,2025-01-31,En Progreso,Ing. Carlos LÛpez
-11,Puente Rio Claro,Puente,San Juan,Constructora ABC,8000000,2023-04-20,2025-01-20,Planificado,Ing. Ana MarÌa RodrÌguez
-12,Edificio de Oficinas,Edificio Corporativo,Santiago,Construc Chile,18000000,2022-12-01,2024-05-30,En Progreso,Ing. Roberto MartÌnez
-13,Carretera Central,Carretera,ValparaÌso,RoadBuild Ltda.,40000000,2023-06-01,2026-03-31,Planificado,Ing. Julia Mena
-14,Represa El Molino,Represa,ConcepciÛn,AguaPura SA,55000000,2023-09-01,2027-06-30,Planificado,Ing. Pedro Santos
-15,Hospital Regional,Hospital,Temuco,HealthBuild Inc.,29000000,2022-07-01,2025-03-31,En Progreso,Ing. Juan PÈrez
-16,Puente Nuevo,Puente,San Juan,Constructora ABC,8500000,2023-05-20,2025-03-20,Planificado,Ing. MarÌa Gonz·lez
-17,Edificio Empresarial,Edificio Corporativo,Santiago,Construc Chile,20000000,2023-01-01,2024-07-30,En Progreso,Ing. Carlos LÛpez
-18,Autopista Norte,Carretera,ValparaÌso,RoadBuild Ltda.,45000000,2023-07-01,2026-05-31,Planificado,Ing. Ana MarÌa RodrÌguez
-19,Represa Las Flores,Represa,ConcepciÛn,AguaPura SA,60000000,2023-10-01,2027-12-31,Planificado,Ing. Roberto MartÌnez
+8,Autopista Sur,Carretera,Valpara√≠so,RoadBuild Ltda.,35000000,2023-05-10,2025-12-15,Planificado,Ing. Juan P√©rez
+9,Represa Monte Grande,Represa,Concepci√≥n,AguaPura SA,50000000,2023-08-01,2027-02-28,Planificado,Ing. Mar√≠a Gonz√°lez
+10,Centro M√©dico Norte,Hospital,Temuco,HealthBuild Inc.,27000000,2022-06-01,2025-01-31,En Progreso,Ing. Carlos L√≥pez
+11,Puente Rio Claro,Puente,San Juan,Constructora ABC,8000000,2023-04-20,2025-01-20,Planificado,Ing. Ana Mar√≠a Rodr√≠guez
+12,Edificio de Oficinas,Edificio Corporativo,Santiago,Construc Chile,18000000,2022-12-01,2024-05-30,En Progreso,Ing. Roberto Mart√≠nez
+13,Carretera Central,Carretera,Valpara√≠so,RoadBuild Ltda.,40000000,2023-06-01,2026-03-31,Planificado,Ing. Julia Mena
+14,Represa El Molino,Represa,Concepci√≥n,AguaPura SA,55000000,2023-09-01,2027-06-30,Planificado,Ing. Pedro Santos
+15,Hospital Regional,Hospital,Temuco,HealthBuild Inc.,29000000,2022-07-01,2025-03-31,En Progreso,Ing. Juan P√©rez
+16,Puente Nuevo,Puente,San Juan,Constructora ABC,8500000,2023-05-20,2025-03-20,Planificado,Ing. Mar√≠a Gonz√°lez
+17,Edificio Empresarial,Edificio Corporativo,Santiago,Construc Chile,20000000,2023-01-01,2024-07-30,En Progreso,Ing. Carlos L√≥pez
+18,Autopista Norte,Carretera,Valpara√≠so,RoadBuild Ltda.,45000000,2023-07-01,2026-05-31,Planificado,Ing. Ana Mar√≠a Rodr√≠guez
+19,Represa Las Flores,Represa,Concepci√≥n,AguaPura SA,60000000,2023-10-01,2027-12-31,Planificado,Ing. Roberto Mart√≠nez
 20,Centro de Salud,Hospital,Temuco,HealthBuild Inc.,31000000,2022-08-01,2025-06-30,En Progreso,Ing. Julia Mena
 21,Puente Grande,Puente,San Juan,Constructora ABC,9000000,2023-06-20,2025-05-20,Planificado,Ing. Pedro Santos
-22,Edificio Comercial,Edificio Comercial,Santiago,Construc Chile,22000000,2023-02-01,2024-09-30,En Progreso,Ing. Juan PÈrez
-23,Carretera Este,Carretera,ValparaÌso,RoadBuild Ltda.,50000000,2023-08-01,2026-07-31,Planificado,Ing. MarÌa Gonz·lez
-24,Represa El Prado,Represa,ConcepciÛn,AguaPura SA,65000000,2023-11-01,2028-01-31,Planificado,Ing. Carlos LÛpez
-25,Hospital de la Ciudad,Hospital,Temuco,HealthBuild Inc.,33000000,2022-09-01,2025-09-30,En Progreso,Ing. Ana MarÌa RodrÌguez
-26,Puente del Sol,Puente,San Juan,Constructora ABC,9500000,2023-07-20,2025-07-20,Planificado,Ing. Roberto MartÌnez
+22,Edificio Comercial,Edificio Comercial,Santiago,Construc Chile,22000000,2023-02-01,2024-09-30,En Progreso,Ing. Juan P√©rez
+23,Carretera Este,Carretera,Valpara√≠so,RoadBuild Ltda.,50000000,2023-08-01,2026-07-31,Planificado,Ing. Mar√≠a Gonz√°lez
+24,Represa El Prado,Represa,Concepci√≥n,AguaPura SA,65000000,2023-11-01,2028-01-31,Planificado,Ing. Carlos L√≥pez
+25,Hospital de la Ciudad,Hospital,Temuco,HealthBuild Inc.,33000000,2022-09-01,2025-09-30,En Progreso,Ing. Ana Mar√≠a Rodr√≠guez
+26,Puente del Sol,Puente,San Juan,Constructora ABC,9500000,2023-07-20,2025-07-20,Planificado,Ing. Roberto Mart√≠nez
 27,Edificio Industrial,Edificio Corporativo,Santiago,Construc Chile,24000000,2023-03-01,2024-11-30,En Progreso,Ing. Julia Mena
-28,Autopista del Mar,Carretera,ValparaÌso,RoadBuild Ltda.,55000000,2023-09-01,2026-09-30,Planificado,Ing. Pedro Santos
-29,Represa Agua Verde,Represa,ConcepciÛn,AguaPura SA,70000000,2023-12-01,2028-03-31,Planificado,Ing. Juan PÈrez
-30,Centro de Especialidades,Hospital,Temuco,HealthBuild Inc.,35000000,2022-10-01,2025-12-31,En Progreso,Ing. MarÌa Gonz·lez
-31,Puente del Norte,Puente,San Juan,Constructora ABC,10000000,2023-08-20,2025-09-20,Planificado,Ing. Carlos LÛpez
-32,Edificio Administrativo,Edificio Corporativo,Santiago,Construc Chile,26000000,2023-04-01,2025-01-31,En Progreso,Ing. Ana MarÌa RodrÌguez
-33,Carretera del Sur,Carretera,ValparaÌso,RoadBuild Ltda.,60000000,2023-10-01,2026-11-30,Planificado,Ing. Roberto MartÌnez
-34,Represa El Valle,Represa,ConcepciÛn,AguaPura SA,75000000,2024-01-01,2028-05-31,Planificado,Ing. Julia Mena
+28,Autopista del Mar,Carretera,Valpara√≠so,RoadBuild Ltda.,55000000,2023-09-01,2026-09-30,Planificado,Ing. Pedro Santos
+29,Represa Agua Verde,Represa,Concepci√≥n,AguaPura SA,70000000,2023-12-01,2028-03-31,Planificado,Ing. Juan P√©rez
+30,Centro de Especialidades,Hospital,Temuco,HealthBuild Inc.,35000000,2022-10-01,2025-12-31,En Progreso,Ing. Mar√≠a Gonz√°lez
+31,Puente del Norte,Puente,San Juan,Constructora ABC,10000000,2023-08-20,2025-09-20,Planificado,Ing. Carlos L√≥pez
+32,Edificio Administrativo,Edificio Corporativo,Santiago,Construc Chile,26000000,2023-04-01,2025-01-31,En Progreso,Ing. Ana Mar√≠a Rodr√≠guez
+33,Carretera del Sur,Carretera,Valpara√≠so,RoadBuild Ltda.,60000000,2023-10-01,2026-11-30,Planificado,Ing. Roberto Mart√≠nez
+34,Represa El Valle,Represa,Concepci√≥n,AguaPura SA,75000000,2024-01-01,2028-05-31,Planificado,Ing. Julia Mena
 35,Hospital General,Hospital,Temuco,HealthBuild Inc.,37000000,2022-11-01,2026-01-31,En Progreso,Ing. Pedro Santos
-36,Puente del Este,Puente,San Juan,Constructora ABC,10500000,2023-09-20,2025-11-20,Planificado,Ing. Juan PÈrez
-37,Edificio de Viviendas,Edificio Corporativo,Santiago,Construc Chile,28000000,2023-05-01,2025-03-31,En Progreso,Ing. MarÌa Gonz·lez
-38,Autopista Central,Carretera,ValparaÌso,RoadBuild Ltda.,65000000,2023-11-01,2027-01-31,Planificado,Ing. Carlos LÛpez
-39,Represa Los Andes,Represa,ConcepciÛn,AguaPura SA,80000000,2024-02-01,2028-07-31,Planificado,Ing. Ana MarÌa RodrÌguez
-40,Centro OncolÛgico,Hospital,Temuco,HealthBuild Inc.,39000000,2022-12-01,2026-03-31,En Progreso,Ing. Roberto MartÌnez
+36,Puente del Este,Puente,San Juan,Constructora ABC,10500000,2023-09-20,2025-11-20,Planificado,Ing. Juan P√©rez
+37,Edificio de Viviendas,Edificio Corporativo,Santiago,Construc Chile,28000000,2023-05-01,2025-03-31,En Progreso,Ing. Mar√≠a Gonz√°lez
+38,Autopista Central,Carretera,Valpara√≠so,RoadBuild Ltda.,65000000,2023-11-01,2027-01-31,Planificado,Ing. Carlos L√≥pez
+39,Represa Los Andes,Represa,Concepci√≥n,AguaPura SA,80000000,2024-02-01,2028-07-31,Planificado,Ing. Ana Mar√≠a Rodr√≠guez
+40,Centro Oncol√≥gico,Hospital,Temuco,HealthBuild Inc.,39000000,2022-12-01,2026-03-31,En Progreso,Ing. Roberto Mart√≠nez
 41,Puente del Oeste,Puente,San Juan,Constructora ABC,11000000,2023-10-20,2026-01-20,Planificado,Ing. Julia Mena
 42,Edificio Educativo,Edificio Corporativo,Santiago,Construc Chile,30000000,2023-06-01,2025-05-31,En Progreso,Ing. Pedro Santos
-43,Carretera Internacional,Carretera,ValparaÌso,RoadBuild Ltda.,70000000,2023-12-01,2027-03-31,Planificado,Ing. Juan PÈrez
-44,Represa El RÌo,Represa,ConcepciÛn,AguaPura SA,85000000,2024-03-01,2028-09-30,Planificado,Ing. MarÌa Gonz·lez
-45,Centro de RehabilitaciÛn,Hospital,Temuco,HealthBuild Inc.,41000000,2023-01-01,2026-05-31,En Progreso,Ing. Carlos LÛpez
-46,Puente del Sur,Puente,San Juan,Constructora ABC,11500000,2023-11-20,2026-03-20,Planificado,Ing. Ana MarÌa RodrÌguez
-47,Edificio Hospitalario,Edificio Corporativo,Santiago,Construc Chile,32000000,2023-07-01,2025-07-31,En Progreso,Ing. Roberto MartÌnez
-48,Autopista Metropolitana,Carretera,ValparaÌso,RoadBuild Ltda.,75000000,2024-01-01,2027-05-31,Planificado,Ing. Julia Mena
-49,Represa San Pedro,Represa,ConcepciÛn,AguaPura SA,90000000,2024-04-01,2028-11-30,Planificado,Ing. Pedro Santos
-50,Centro de Emergencias,Hospital,Temuco,HealthBuild Inc.,43000000,2023-02-01,2026-07-31,En Progreso,Ing. Juan PÈrez
+43,Carretera Internacional,Carretera,Valpara√≠so,RoadBuild Ltda.,70000000,2023-12-01,2027-03-31,Planificado,Ing. Juan P√©rez
+44,Represa El R√≠o,Represa,Concepci√≥n,AguaPura SA,85000000,2024-03-01,2028-09-30,Planificado,Ing. Mar√≠a Gonz√°lez
+45,Centro de Rehabilitaci√≥n,Hospital,Temuco,HealthBuild Inc.,41000000,2023-01-01,2026-05-31,En Progreso,Ing. Carlos L√≥pez
+46,Puente del Sur,Puente,San Juan,Constructora ABC,11500000,2023-11-20,2026-03-20,Planificado,Ing. Ana Mar√≠a Rodr√≠guez
+47,Edificio Hospitalario,Edificio Corporativo,Santiago,Construc Chile,32000000,2023-07-01,2025-07-31,En Progreso,Ing. Roberto Mart√≠nez
+48,Autopista Metropolitana,Carretera,Valpara√≠so,RoadBuild Ltda.,75000000,2024-01-01,2027-05-31,Planificado,Ing. Julia Mena
+49,Represa San Pedro,Represa,Concepci√≥n,AguaPura SA,90000000,2024-04-01,2028-11-30,Planificado,Ing. Pedro Santos
+50,Centro de Emergencias,Hospital,Temuco,HealthBuild Inc.,43000000,2023-02-01,2026-07-31,En Progreso,Ing. Juan P√©rez
