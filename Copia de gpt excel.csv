@@ -1,0 +1,51 @@
+ID del Proyecto,Nombre del Proyecto,Tipo de Proyecto,Ubicación,Empresa Contratista,Costo Estimado (USD),Fecha de Inicio,Fecha de Finalización Estimada,Estado del Proyecto,Ingeniero Responsable
+1,Puente San Juan,Puente,San Juan,Constructora ABC,5000000,2023-01-15,2024-05-20,En Progreso,Ing. Juan Pérez
+2,Edificio Central,Edificio Comercial,Santiago,Construc Chile,12000000,2022-08-01,2023-12-31,En Progreso,Ing. María González
+3,Carretera Norte,Carretera,Valparaíso,RoadBuild Ltda.,30000000,2023-03-01,2025-10-15,Planificado,Ing. Carlos López
+4,Represa Agua Clara,Represa,Concepción,AguaPura SA,45000000,2023-07-01,2026-09-30,Planificado,Ing. Ana María Rodríguez
+5,Hospital del Sur,Hospital,Temuco,HealthBuild Inc.,25000000,2022-05-01,2024-11-30,En Progreso,Ing. Roberto Martínez
+6,Puente Viejo,Puente,San Juan,Constructora ABC,7500000,2023-03-20,2024-11-20,Planificado,Ing. Julia Mena
+7,Edificio Corporativo,Edificio Corporativo,Santiago,Construc Chile,15000000,2022-11-15,2024-03-20,En Progreso,Ing. Pedro Santos
+8,Autopista Sur,Carretera,Valparaíso,RoadBuild Ltda.,35000000,2023-05-10,2025-12-15,Planificado,Ing. Juan Pérez
+9,Represa Monte Grande,Represa,Concepción,AguaPura SA,50000000,2023-08-01,2027-02-28,Planificado,Ing. María González
+10,Centro Médico Norte,Hospital,Temuco,HealthBuild Inc.,27000000,2022-06-01,2025-01-31,En Progreso,Ing. Carlos López
+11,Puente Rio Claro,Puente,San Juan,Constructora ABC,8000000,2023-04-20,2025-01-20,Planificado,Ing. Ana María Rodríguez
+12,Edificio de Oficinas,Edificio Corporativo,Santiago,Construc Chile,18000000,2022-12-01,2024-05-30,En Progreso,Ing. Roberto Martínez
+13,Carretera Central,Carretera,Valparaíso,RoadBuild Ltda.,40000000,2023-06-01,2026-03-31,Planificado,Ing. Julia Mena
+14,Represa El Molino,Represa,Concepción,AguaPura SA,55000000,2023-09-01,2027-06-30,Planificado,Ing. Pedro Santos
+15,Hospital Regional,Hospital,Temuco,HealthBuild Inc.,29000000,2022-07-01,2025-03-31,En Progreso,Ing. Juan Pérez
+16,Puente Nuevo,Puente,San Juan,Constructora ABC,8500000,2023-05-20,2025-03-20,Planificado,Ing. María González
+17,Edificio Empresarial,Edificio Corporativo,Santiago,Construc Chile,20000000,2023-01-01,2024-07-30,En Progreso,Ing. Carlos López
+18,Autopista Norte,Carretera,Valparaíso,RoadBuild Ltda.,45000000,2023-07-01,2026-05-31,Planificado,Ing. Ana María Rodríguez
+19,Represa Las Flores,Represa,Concepción,AguaPura SA,60000000,2023-10-01,2027-12-31,Planificado,Ing. Roberto Martínez
+20,Centro de Salud,Hospital,Temuco,HealthBuild Inc.,31000000,2022-08-01,2025-06-30,En Progreso,Ing. Julia Mena
+21,Puente Grande,Puente,San Juan,Constructora ABC,9000000,2023-06-20,2025-05-20,Planificado,Ing. Pedro Santos
+22,Edificio Comercial,Edificio Comercial,Santiago,Construc Chile,22000000,2023-02-01,2024-09-30,En Progreso,Ing. Juan Pérez
+23,Carretera Este,Carretera,Valparaíso,RoadBuild Ltda.,50000000,2023-08-01,2026-07-31,Planificado,Ing. María González
+24,Represa El Prado,Represa,Concepción,AguaPura SA,65000000,2023-11-01,2028-01-31,Planificado,Ing. Carlos López
+25,Hospital de la Ciudad,Hospital,Temuco,HealthBuild Inc.,33000000,2022-09-01,2025-09-30,En Progreso,Ing. Ana María Rodríguez
+26,Puente del Sol,Puente,San Juan,Constructora ABC,9500000,2023-07-20,2025-07-20,Planificado,Ing. Roberto Martínez
+27,Edificio Industrial,Edificio Corporativo,Santiago,Construc Chile,24000000,2023-03-01,2024-11-30,En Progreso,Ing. Julia Mena
+28,Autopista del Mar,Carretera,Valparaíso,RoadBuild Ltda.,55000000,2023-09-01,2026-09-30,Planificado,Ing. Pedro Santos
+29,Represa Agua Verde,Represa,Concepción,AguaPura SA,70000000,2023-12-01,2028-03-31,Planificado,Ing. Juan Pérez
+30,Centro de Especialidades,Hospital,Temuco,HealthBuild Inc.,35000000,2022-10-01,2025-12-31,En Progreso,Ing. María González
+31,Puente del Norte,Puente,San Juan,Constructora ABC,10000000,2023-08-20,2025-09-20,Planificado,Ing. Carlos López
+32,Edificio Administrativo,Edificio Corporativo,Santiago,Construc Chile,26000000,2023-04-01,2025-01-31,En Progreso,Ing. Ana María Rodríguez
+33,Carretera del Sur,Carretera,Valparaíso,RoadBuild Ltda.,60000000,2023-10-01,2026-11-30,Planificado,Ing. Roberto Martínez
+34,Represa El Valle,Represa,Concepción,AguaPura SA,75000000,2024-01-01,2028-05-31,Planificado,Ing. Julia Mena
+35,Hospital General,Hospital,Temuco,HealthBuild Inc.,37000000,2022-11-01,2026-01-31,En Progreso,Ing. Pedro Santos
+36,Puente del Este,Puente,San Juan,Constructora ABC,10500000,2023-09-20,2025-11-20,Planificado,Ing. Juan Pérez
+37,Edificio de Viviendas,Edificio Corporativo,Santiago,Construc Chile,28000000,2023-05-01,2025-03-31,En Progreso,Ing. María González
+38,Autopista Central,Carretera,Valparaíso,RoadBuild Ltda.,65000000,2023-11-01,2027-01-31,Planificado,Ing. Carlos López
+39,Represa Los Andes,Represa,Concepción,AguaPura SA,80000000,2024-02-01,2028-07-31,Planificado,Ing. Ana María Rodríguez
+40,Centro Oncológico,Hospital,Temuco,HealthBuild Inc.,39000000,2022-12-01,2026-03-31,En Progreso,Ing. Roberto Martínez
+41,Puente del Oeste,Puente,San Juan,Constructora ABC,11000000,2023-10-20,2026-01-20,Planificado,Ing. Julia Mena
+42,Edificio Educativo,Edificio Corporativo,Santiago,Construc Chile,30000000,2023-06-01,2025-05-31,En Progreso,Ing. Pedro Santos
+43,Carretera Internacional,Carretera,Valparaíso,RoadBuild Ltda.,70000000,2023-12-01,2027-03-31,Planificado,Ing. Juan Pérez
+44,Represa El Río,Represa,Concepción,AguaPura SA,85000000,2024-03-01,2028-09-30,Planificado,Ing. María González
+45,Centro de Rehabilitación,Hospital,Temuco,HealthBuild Inc.,41000000,2023-01-01,2026-05-31,En Progreso,Ing. Carlos López
+46,Puente del Sur,Puente,San Juan,Constructora ABC,11500000,2023-11-20,2026-03-20,Planificado,Ing. Ana María Rodríguez
+47,Edificio Hospitalario,Edificio Corporativo,Santiago,Construc Chile,32000000,2023-07-01,2025-07-31,En Progreso,Ing. Roberto Martínez
+48,Autopista Metropolitana,Carretera,Valparaíso,RoadBuild Ltda.,75000000,2024-01-01,2027-05-31,Planificado,Ing. Julia Mena
+49,Represa San Pedro,Represa,Concepción,AguaPura SA,90000000,2024-04-01,2028-11-30,Planificado,Ing. Pedro Santos
+50,Centro de Emergencias,Hospital,Temuco,HealthBuild Inc.,43000000,2023-02-01,2026-07-31,En Progreso,Ing. Juan Pérez
